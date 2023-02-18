@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @EHolBRole or just Hol^^
-- 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Unity/UnrealEngine/C#/C++
+- 👋 Hi! My name is Arseniy, but you could call me @EHolBRole or just Hol^^
+- 👀 I’m interested in GameDev, and actively developing in this direction.
+- 🌱 I’m currently studying at first course of Mobile and Network Technology in ITMO university
+- My current skills:
+- C# 11, Unity Framework;
+- Java 19;
+- C++;
+- Python;
+- Git;
 - 📫 How to reach me: 
 - string mail = "ekholo.banderole@mail.ru"; 
 - string discordTag = "DemonHol#1679";
