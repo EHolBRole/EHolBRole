@@ -4,9 +4,9 @@
 - My current skills:
 - C# 11, Unity Framework;
 - Java 19;
-- C++;
 - Python;
 - Git;
+- Linux Core & Bash;
 - 📫 How to reach me: 
 - string mail = "ekholo.banderole@mail.ru"; 
 - string discordTag = "DemonHol#1679";
