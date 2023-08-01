@@ -2,8 +2,8 @@
 - 👀 I’m interested in GameDev, and actively developing in this direction.
 - 🌱 I’m currently studying at first course of Mobile and Network Technology in ITMO university
 - My current skills:
-- C# 11, Unity Framework;
-- Java 19;
+- C#, Unity Framework;
+- Java;
 - Python;
 - Git;
 - Linux Core & Bash;
