@@ -1,12 +1,18 @@
-- 👋 Hi! My name is Arseniy, but you could call me @EHolBRole or just Hol^^
-- 👀 I’m interested in GameDev, and actively developing in this direction.
-- 🌱 I’m currently studying at first course of Mobile and Network Technology in ITMO university
-- My current skills:
-- C#, Unity Framework;
-- Java;
+- 👋 Hello! My name is Arseniy, but you could call me @EHolBRole or just Hol.
+- 🌱 I’m currently studying at second course of Mobile and Network Technology in ITMO university
+- My stack:
+- .NET Core, LINQ;
+- Java Core;
 - Python;
-- Git;
-- Linux Core & Bash;
+- git vsc;
+- Bash;
+- Docker;
+- Desing Patterns;
+- OOP;
+- Solid;
+- SQL, MySQL, PostgreSQL;
+- DB Modeling;
 - 📫 How to reach me: 
 - string mail = "ekholo.banderole@mail.ru"; 
 - string discordTag = "DemonHol#1679";
+- string telegram = "@EkholoBanderole";
