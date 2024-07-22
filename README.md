@@ -1,7 +1,7 @@
 - 👋 Hello! My name is Arseniy, but you could call me @EHolBRole or just Hol.
 - 🌱 I’m currently studying at second course of Mobile and Network Technology in ITMO university
 - My stack:
-- .NET Core, LINQ;
+- .NET Core, LINQ, ASP .NET;
 - Java Core;
 - Python;
 - git vsc;
