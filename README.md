@@ -8,7 +8,7 @@
 - Bash;
 - Docker;
 - HTTP;
-- Desing Patterns, DDD, MVC, REST, Clean Architecture;
+- Design Patterns, DDD, MVC, REST, Clean Architecture;
 - OOP;
 - SOLID;
 - SQL, MySQL, PostgreSQL;
