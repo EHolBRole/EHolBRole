@@ -1,15 +1,16 @@
 - 👋 Hello! My name is Arseniy, but you could call me @EHolBRole or just Hol.
-- 🌱 I’m currently studying at second course of Mobile and Network Technology in ITMO university
-- My stack:
+- 🌱 I’m currently studying second course of Mobile and Network Technology in ITMO university
+- My skills:
 - .NET Core, LINQ, ASP .NET;
 - Java Core;
-- Python;
+- Python, Django;
 - git vsc;
 - Bash;
 - Docker;
-- Desing Patterns;
+- HTTP;
+- Desing Patterns, DDD, MVC, REST, Clean Architecture;
 - OOP;
-- Solid;
+- SOLID;
 - SQL, MySQL, PostgreSQL;
 - DB Modeling;
 - 📫 How to reach me: 
