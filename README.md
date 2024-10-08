@@ -17,4 +17,6 @@
 - string mail = "ekholo.banderole@mail.ru"; 
 - string discordTag = "DemonHol#1679";
 - string telegram = "@EkholoBanderole";
-[my_resume.pdf](https://github.com/user-attachments/files/17297934/my_resume.pdf)
+
+
+Resume: [my_resume.pdf](https://github.com/user-attachments/files/17297934/my_resume.pdf)
