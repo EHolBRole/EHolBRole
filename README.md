@@ -1,4 +1,4 @@
-- 👋 Hello! My name is Arseniy, but you could call me @EHolBRole or just Hol.
+- 👋 Hello! My name is Arseniy, but you can call me @EHolBRole or just Hol.
 - 🌱 I’m currently studying second course of Mobile and Network Technology in ITMO university
 - My skills:
 - .NET Core, LINQ, ASP .NET;
