@@ -1,6 +1,6 @@
 👋 Hello! I'm Arseniy (aka @EHolBRole or just Hol)
 
-🌱 I'm currently immersed in the second year of Mobile and Network Technology at ITMO University.
+🌱 I'm currently immersed in the third year of Mobile and Network Technology at ITMO University.
 
 💻 My Skill Set:
 - Programming Languages: .NET Core, Java, Python
