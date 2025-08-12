@@ -10,7 +10,7 @@ I enjoy building complex systems, from turn-based strategy games to utility appl
 
 I am an effective communicator, comfortable explaining technical concepts to both peers and non-technical people, and have experience organizing and contributing in team projects.
 
-I am actively seeking opportunities to grow as a developer, collaborate with others, and contribute my skills to exciting projects.
+I am actively seeking opportunities to grow as a developer, collaborate with others, and contribute my skills to exciting projects!
 
 ---
 
