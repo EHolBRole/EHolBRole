@@ -1,22 +1,60 @@
-👋 Hello! I'm Arseniy (aka @EHolBRole or just Hol)
+# Arseniy Shmidt (aka @EHolBRole / Hol)
 
-🌱 I'm currently immersed in the third year of Mobile and Network Technology at ITMO University.
+👋 Hello! I am a passionate junior software developer with a strong foundation in game development, software architecture, and problem-solving, currently in my third year of Mobile and Network Technology at ITMO University.
 
-💻 My Skill Set:
-- Programming Languages: .NET Core, Java, Python
-- Web Development: ASP.NET, Django
-- Version Control: Git
-- Scripting: Bash
-- Containerization: Docker
-- Software Architecture: Design Patterns, DDD, MVC, REST, Clean Architecture
-- Programming Principles: OOP, SOLID
-- Databases: SQL, MySQL, PostgreSQL, DB Modeling
+---
 
-📫 Feel free to reach out:
-- Email: ekholo.banderole@mail.ru
-- Discord: DemonHol#1679
+## About Me
+
+I enjoy building complex systems, from turn-based strategy games to utility applications, and continuously improving my coding skills and architectural thinking. I have hands-on experience designing and implementing gameplay systems, AI behaviors, and runtime data management, alongside solid knowledge of software design principles.
+
+I am an effective communicator, comfortable explaining technical concepts to both peers and non-technical people, and have experience organizing and contributing in team projects.
+
+I am actively seeking opportunities to grow as a developer, collaborate with others, and contribute my skills to exciting projects.
+
+---
+
+## Technical Skills
+
+**Languages:**  
+C# (Unity, .NET Core), Python, Bash scripting
+
+**Game Development:**  
+Unity engine, 2D game programming, AI scripting, UI scripting, runtime architecture design
+
+**Web Development:**  
+ASP.NET, Django basics
+
+**Software Architecture & Principles:**  
+Object-Oriented Programming, Design Patterns, Domain-Driven Design (DDD), MVC, REST, SOLID principles, Clean Architecture
+
+**Tools & Workflow:**  
+Git, GitHub (branches, PRs, code reviews), Visual Studio, PyCharm, Unit Testing
+
+**Databases:**  
+SQL, MySQL, PostgreSQL, database modeling
+
+**Containerization:**  
+Docker, Docker Compose
+
+
+---
+
+## Soft Skills & Approach
+
+- Effective at self-learning using documentation, tutorials, and mentorship from professionals.  
+- Clear communicator who can explain complex technical topics simply to diverse audiences.  
+- Experience collaborating as both organizer and developer in team projects.  
+- Resilient and persistent in problem-solving, leveraging debugging tools, unit tests, and research.
+  
+---
+
+## Contact
+
+- Email: ekholo.banderole@mail.ru  
+- Discord: demonhol
 - Telegram: @EkholoBanderole
 
-🌟 I'm always eager to learn new technologies and collaborate on exciting projects! Let's connect and build something great together!
+---
 
-My resume: [my_resume.pdf](https://github.com/user-attachments/files/17297971/my_resume.pdf)
+My resume: [my_resume.pdf](https://github.com/user-attachments/files/21744685/my_resume.pdf)
